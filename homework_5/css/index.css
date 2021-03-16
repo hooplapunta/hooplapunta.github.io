@@ -1,4 +1,6 @@
 /* Specific Page Stylesheet for index.html */
+
+
 #indexBackground {
     padding: 48px 0 0 0;
     /* background-image: url('../img/background.png'); */
@@ -19,7 +21,7 @@
     margin: 32px;
     padding: 8px;
     border-radius: 8px;
-    background-image: url('../img/transparent.png');
+    background-color: #eeeeee;
     text-align: center;
 }
 

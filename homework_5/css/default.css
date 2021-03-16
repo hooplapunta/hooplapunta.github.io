@@ -2,7 +2,7 @@
 
 :root {
     --accent-color: hotpink;
-  }
+}
 
 /*Page Layout Setup*/
 
@@ -28,14 +28,19 @@ article {
 }
 
 /* Rows and Columns */
+
 .row {
     display: flex;
     align-items: center;
-  }
-  
-  .column {
+}
+
+.column-2 {
     flex: 50%;
-  }
+}
+
+.column-3 {
+    flex: 33%;
+}
 
 /* Header, Navigation*/
 
