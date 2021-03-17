@@ -42,6 +42,10 @@ article {
     flex: 33%;
 }
 
+.column-6 {
+    flex: 16.6%;
+}
+
 /* Header, Navigation*/
 
 header {
